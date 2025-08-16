@@ -1,0 +1,60 @@
+{
+  "name": "✰ᵀᴷᴹᴍᴏᴅs✰",
+  "description": "whatsapp bot for groups",
+  "repository": "PUT YOUR REPOSITORY URL HERE (if applicable)",
+  "logo": "PUT YOUR LOGO URL HERE",
+  "keywords": [
+    "nodejs",
+    "whatsapp",
+    "bot",
+    "automation"
+  ],
+  "success_url": "/",
+  "stack": "heroku-24",
+  "env": {
+    "SESSION_ID": {
+      "description": "Session ID for the bot, must start with 'starecore~'.",
+      "required": true,
+      "value": ""
+    },
+    "OWNER_NUMBER": {
+      "description": "Phone number of the bot owner (e.g., +1234567890).",
+      "required": false,
+      "value": "PUT YOUR OWNER NUMBER HERE"
+    },
+    "GIPHY_API_KEY": {
+      "description": "API key for Giphy integration.",
+      "required": false,
+      "value": "PUT YOUR GIPHY API KEY HERE"
+    },
+    "AUTO_STATUS_SEEN": {
+      "description": "Enable automatic viewing of WhatsApp statuses (true/false).",
+      "required": false,
+      "value": "true"
+    },
+    "AUTO_STATUS_REACT": {
+      "description": "Enable automatic reactions to WhatsApp statuses with random emojis (true/false).",
+      "required": false,
+      "value": "true"
+    },
+    "COMMAND_MODE": {
+      "description": "Bot command mode (public or private).",
+      "required": false,
+      "value": "public"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https:                                                
+    }
+  ],
+  "scripts": {
+      "start": "node index.js"
+    },
+    "addons": []
+  }
