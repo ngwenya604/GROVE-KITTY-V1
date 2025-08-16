@@ -1,7 +1,7 @@
 {
   "name": "✰ᵀᴷᴹᴍᴏᴅs✰",
   "description": "whatsapp bot for groups",
-  "repository": "PUT YOUR REPOSITORY URL HERE (if applicable)",
+  "repository": "https://github.com/ngwenya604/GROVE-KITTY-V1/tree/main",
   "logo": "PUT YOUR LOGO URL HERE",
   "keywords": [
     "nodejs",
@@ -13,19 +13,19 @@
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description": "Session ID for the bot, must start with 'starecore~'.",
+      "description": "Session ID for the bot, must start with 'groovecore'.",
       "required": true,
       "value": ""
     },
     "OWNER_NUMBER": {
-      "description": "Phone number of the bot owner (e.g., +1234567890).",
+      "description": "Phone number of the bot owner (e.g., +263789336694).",
       "required": false,
-      "value": "PUT YOUR OWNER NUMBER HERE"
+      "value": "263789336694"
     },
     "GIPHY_API_KEY": {
       "description": "API key for Giphy integration.",
       "required": false,
-      "value": "PUT YOUR GIPHY API KEY HERE"
+      "value": "6e181b09b8e5cf8b20c57b0ff7f721e2-83cf4c2f-6f95-4ce3-97ea-67a2e7911c60"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enable automatic viewing of WhatsApp statuses (true/false).",
@@ -50,7 +50,7 @@
   },
   "buildpacks": [
     {
-      "url": "https:                                                
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"                                            
     }
   ],
   "scripts": {
