@@ -1,0 +1,21 @@
+{
+  "name": "ɢʀᴏᴏᴇ-ᴋɪᴛᴛʏ",
+  "version": "1.0.0",
+  "description": "WhatsApp bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docker:build": "docker build -t ɢʀᴏᴏᴇ-ᴋɪᴛᴛʏ.",
+    "docker:run": "docker run -e SESSION_ID=$SESSION_ID your-project-name"
+  },
+  "keywords": [
+    "WhatsApp bot"
+  ],
+  "author": "ngwenya604",
+  "license": "ISC",
+  "dependencies": {
+    // Your dependencies here
+  }
+}
