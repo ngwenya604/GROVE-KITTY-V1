@@ -8,19 +8,19 @@
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=STAR+XD;Multi+Device+WhatsApp+Bot;Made+By+Malvin+King" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=STAR+XD;Multi+Device+WhatsApp+Bot;Made+By+Malvin+King" alt" />
   </a> 
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@malvintech2"> 
-    <img src="https://i.ibb.co/rRg9wTZV/malvin-xd.jpg" alt="STAR XD" height="300" style="border-radius:15px; box-shadow: 0 10px 30px rgba(0, 0, 255, 0.3);">
+  <a href="https:/lvintech2"> 
+    <img src="https://i.ibb.co/rRg9wTZV/malvin-xd.jpg" alt="Groove kitty" height="300" style="border-radius:15px; box-shadow: 0 10px 30px rgba(0, 0, 255, 0.3);">
   </a> 
 </div>
 
 ---
 
-## 🚀 Deploy Star XD in Minutes
+## 🚀 Deploy Groove kitty in Minutes
 
 > 🌟 **DEPLOYMENT & STEPS** 🌟
 
@@ -29,7 +29,7 @@
 _Click the button below to fork STAR XD repository to your GitHub account_
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tap+fork+button+Bellow+To+Fork;STAR+XD+REPOhttps://github.com/ngwenya604/GROVE-KITTY-V1
 <a href="https://github.com/XdKing2/star-xd/fork">
-  <img src="https://img.shields.io/github/forks/XdKing2/star-xd?style=for-the-badge&logo=github&color=4c1&label=Fork%20star-xd" alt="Fork star-xd" />
+  <img src="https://img.shields.io/github/forks/XdKing2/star-xd?le=for-the-badge&logo=github&color=4c1&label=Fork%20star-xd" alt="Fork " />
 </a>
 
 
